@@ -1,0 +1,9 @@
+{
+	"folders": [],
+	"settings": {
+		"files.autoSave": "onFocusChange",
+		"code-runner.saveAllFilesBeforeRun": true,
+		"code-runner.saveFileBeforeRun": true,
+		"python.dataScience.jupyterServerURI": "http://localhost:8888/?token=6b1598027dc2cc86a6caadc3b6b15e548e85b955a795d727"
+	}
+}
