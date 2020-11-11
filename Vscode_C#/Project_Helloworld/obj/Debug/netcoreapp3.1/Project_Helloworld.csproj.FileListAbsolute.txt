@@ -1,0 +1,13 @@
+F:\User\Documents\Vscode_workplace\Vscode_C#\Project_Helloworld\bin\Debug\netcoreapp3.1\Project_Helloworld.exe
+F:\User\Documents\Vscode_workplace\Vscode_C#\Project_Helloworld\bin\Debug\netcoreapp3.1\Project_Helloworld.deps.json
+F:\User\Documents\Vscode_workplace\Vscode_C#\Project_Helloworld\bin\Debug\netcoreapp3.1\Project_Helloworld.runtimeconfig.json
+F:\User\Documents\Vscode_workplace\Vscode_C#\Project_Helloworld\bin\Debug\netcoreapp3.1\Project_Helloworld.runtimeconfig.dev.json
+F:\User\Documents\Vscode_workplace\Vscode_C#\Project_Helloworld\bin\Debug\netcoreapp3.1\Project_Helloworld.dll
+F:\User\Documents\Vscode_workplace\Vscode_C#\Project_Helloworld\bin\Debug\netcoreapp3.1\Project_Helloworld.pdb
+F:\User\Documents\Vscode_workplace\Vscode_C#\Project_Helloworld\obj\Debug\netcoreapp3.1\Project_Helloworld.csprojAssemblyReference.cache
+F:\User\Documents\Vscode_workplace\Vscode_C#\Project_Helloworld\obj\Debug\netcoreapp3.1\Project_Helloworld.AssemblyInfoInputs.cache
+F:\User\Documents\Vscode_workplace\Vscode_C#\Project_Helloworld\obj\Debug\netcoreapp3.1\Project_Helloworld.AssemblyInfo.cs
+F:\User\Documents\Vscode_workplace\Vscode_C#\Project_Helloworld\obj\Debug\netcoreapp3.1\Project_Helloworld.csproj.CoreCompileInputs.cache
+F:\User\Documents\Vscode_workplace\Vscode_C#\Project_Helloworld\obj\Debug\netcoreapp3.1\Project_Helloworld.dll
+F:\User\Documents\Vscode_workplace\Vscode_C#\Project_Helloworld\obj\Debug\netcoreapp3.1\Project_Helloworld.pdb
+F:\User\Documents\Vscode_workplace\Vscode_C#\Project_Helloworld\obj\Debug\netcoreapp3.1\Project_Helloworld.genruntimeconfig.cache
